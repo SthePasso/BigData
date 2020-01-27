@@ -1,0 +1,8 @@
+br/edu/ufam/SthePasso/WordCount$Args.class
+br/edu/ufam/SthePasso/WordCount$MyMapperIMC.class
+br/edu/ufam/SthePasso/WordCount$MyReducer.class
+br/edu/ufam/SthePasso/WordCount$MyMapper.class
+br/edu/ufam/SthePasso/WordCount$1.class
+br/edu/ufam/SthePasso/Tokenizer.class
+br/edu/ufam/SthePasso/App.class
+br/edu/ufam/SthePasso/WordCount.class
