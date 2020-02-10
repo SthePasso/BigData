@@ -20,3 +20,9 @@ hadoop jar target/pi1p1-1.0-SNAPSHOT-fatjar.jar br.edu.ufam.SthePasso.WordCount 
 Esses comandos estão funcionando no computador pessoal. 
 
 ## Trabalho 2
+
+O arquivo de entrada de onde serão extraídos os dados de entrada é o “Amazon product co-purchasing network metadata” que faz parte do Stanford Network Analysis Project (SNAP). Os dados foram coletados em 2006 do site Amazon e informações de produto e comentários de clientes sobre 548.552 produtos diferentes (livros, CDs de música, DVDs e fitas de vídeo VHS).
+
+Esse arquivo deve ser baixado e colocado no mesmo diretório de "PI2_Sthefanie_Passo.py" 
+
+Assim temos diferentes consultas de 'a' até 'g' que podem ser realizadas, e assim pode-se executar todas de uma vez ou uma por vez comentando as outras
